@@ -18,24 +18,6 @@
 
 ---
 
-### 🎮 Gaming Profiles
-
-I'm passionate about games — not only for fun, but also for the way they boost problem-solving, strategic thinking, and creativity. Here's where you can find me:
-
-- 🕹️ **Steam**: [steamcommunity.com/id/kr0us](https://steamcommunity.com/id/kr0us)
-- ⚔️ **League of Legends**: Kr0us#LAN
-- 👾 **Battle.net**: Kr0us#1234 *(update if needed)*
-- 🛡️ **Epic Games**: Kr0us
-- 🎯 **Valorant / Riot ID**: Kr0us#GOD *(update as needed)*
-
-> Favorite genres: competitive FPS, story-driven RPGs, and strategy games.
->  
-> I often draw inspiration from gaming when coding projects — logic, flow, user experience, and even UI/UX design ideas often come from the games I play.
-
----
-
-
-
 ### 🚀 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
