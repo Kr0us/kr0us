@@ -11,7 +11,7 @@
 - 🧠 Always learning, especially in **full-stack web development**
 - 🌍 I speak:
   - 🇪🇸 Native Spanish
-  - 🇬🇧 Fluent English (for tech & collaboration)
+  - 🇬🇧 Intermediate English (with strong command of technical and programming terms)
   - 🇵🇹 Intermediate Portuguese
 - 🤝 Looking to **collaborate** on tech and game-related projects
 - 🔥 Fun fact: Games led me into coding and still inspire my creativity!
@@ -32,23 +32,23 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kr0us&show_icons=true&theme=radical" alt="Kr0us's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kr0us&show_icons=true&theme=radical" alt="Kr0us's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kr0us&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kr0us&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr0us&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kr0us&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ### 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/) *(replace with your real link)*
-- 📧 Email: yourname@email.com *(replace with your real email)*
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/cristian-morales-77393726a/)
+- 📧 Email: cmoralesmillo@gmail.com
 
 ---
 
