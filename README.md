@@ -47,7 +47,7 @@
 
 ### 📫 Contact Me
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/cristian-morales-77393726a/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cristian-morales-77393726a/)
 - 📧 Email: cmoralesmillo@gmail.com
 
 ---
